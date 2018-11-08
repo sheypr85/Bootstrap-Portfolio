@@ -1,5 +1,5 @@
-.backg {
-    background: url(/assets/images/tiny-squares.png);
+html {
+    background: url(../images/tiny-squares.png);
 }
 
 .footer {
